@@ -34,9 +34,7 @@ public class NormalPubSubConfig {
     @ServiceActivator(inputChannel = "outputChannel")
     public MessageHandler receiveMessage() {
         return message -> {
-            System.out.println("New Message Received = "+new String((byte[])message.getPayload()));
-            BasicAcknowledgeablePubsubMessage basicAcknowledgeablePubsubMessage = message.getHeaders().get(GcpPubSubHeaders.ORIGINAL_MESSAGE, BasicAcknowledgeablePubsubMessage.class);
-            basicAcknowledgeablePubsubMessage.ack();
+            System.out.println("Normal Message Received = "+new String((byte[])message.getPayload()));
         };
     }
 }
