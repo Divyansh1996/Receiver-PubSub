@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cloud-spanner-430219",
+  "private_key_id": "64a528fc326bdf37d205b6f8835e7c978d800fda",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDLzuQgbRep2vO4\n7VU0pvRCj87fmlPu+1s52K7WxlyDsyuK+rAubKpgd5AhxKrDGBv2+muPI4KSqzAX\nkLofHSJ79cyPwoouMfkAGcCSQfzEUmQBw5k04qyIoFh9U+EgOyG5jdCmRNHXNYRa\n9rchHPiGttzSMF8v7zTM/7uMb89JQ6HrVYgNS00EY33jjoMh/a12MSA+1h8v3WUN\ndUlcrV9W5nyleaVtKo5aKX+1VhMM3qT7ZATcpmPbjzR56DBm4BRjT5KboyR4Xmk5\nmlbq/g6ti8FT6BCsjPAE0kcavs19eX9U68Pbcgx+wbza/Ct080hRjNZ529//U0ka\n5mPKYHBnAgMBAAECggEAR9aewbFCaIw1YWdCo+L/cSDYlieDU1cFImA2zJyxynhS\nrlPL2ylRatxqEQUN/eOXI9jEJfmp0kIGGyBYApSV7aTH3JqBc2QI9ViecM9Spe62\nsop8C9CkaSo/1rlEvsQpEIsk0x6p6pZCF4AkL8dS8MUvE+WZ/77s2R+BP7C/m35a\na7AyOpVFjhTLp8kA7KzWk1kuteIWeqIzQKc535Dj4Lv5JgWqugoxulBvfMgpDoho\nxe6lNeuM1+3D3UIpK3d2zyIsLjcJuAik4ZgdfkNZi/7PbAClkU6df9mx8WR5ohM0\npR0X8hMWlNJF7NKtccfR7zxWnbXyWVxhjXDqH0g4mQKBgQD2dnx8zV4Z7wZk1lb2\nq2p5yYTCrUpDlHwFxIGiib244R/L4wk+KDp5Eou2CuQxmPUWlsYfHWxCoTW/HFte\n7TXEeCaVzJ0sWpQnyW/5MjCBfcp2NbBoBjGxxsiTQ/aL8NehsE2GiLxojp8dq3Rp\n8jJkqhkihGKP1ZtmIQQIbfBO6QKBgQDTsdvJpB/jGzBc2bkAOVD3qdEbdURrT3u0\nTsrPAQ0OldOzuVksONe6OWyNddqAj4SbVq0wZQns+I9UlacIlxj9n1v+mu95NFJB\nR8WHqFY49wiKZJIgQixKcaq1tJFETubX5Lr/KBwi3H52FNf7LSzdTbIbf2CzBxh2\nNrPg0zpSzwKBgFxTClMeA1Anr/d6K11/3QT+LlNW4ujp6IOolv8yJfXpryWLSN0V\n6MGN5vQspErIB5eMp27kcLeM+Ds8/iVTKr8MWzfmTEJfM/yrgtyQpob7fipF9m0h\nVOBJnL09yk+lysDw8DmjYyCvvH86yQMfDS2UYpIBkYJb/DiHyaD2vfxxAoGAUxew\n6Yjea0o0xX1APHJC8bNaPKje3jAoojF7MZ17/omYuya5db4qDxKTJUNpLKUoq8Bt\n4l0GdFlsCQtksN5+FK8EcP9nl++NicoeIo1Uqq9sTsYDBV5z/BR5qTDjBCjkO0Gw\nlI6t3JEnojm0PQcSYRsqGdj5n8vdMilumYTPk8kCgYEA9ZJ0J6KYV8QuL6ltHZMR\nCGAgI7zLvNjYcdau3P8/itWt+Kq67c4tl8GOOW8AI2I13aKkhsn/gNjP/daedS86\n5bzbyAHi27Cdkxa12xn54VH+ison43W+TKKgV9WJUTsfxL2ESR8gToFFyYUi+QT5\nGoJeFzOd04XZiVWmWTS7m1w=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloud-pubsub@cloud-spanner-430219.iam.gserviceaccount.com",
+  "client_id": "108568234415092700286",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloud-pubsub%40cloud-spanner-430219.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
